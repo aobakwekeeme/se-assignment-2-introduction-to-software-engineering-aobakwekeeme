@@ -70,15 +70,15 @@ Version Control Systems:*
 - **Description**: Testing individual components or functions for correctness.
 - **Example**: Testing a specific function in a codebase.
 
-1 **Integration Testing**:
+1. **Integration Testing**:
 - **Description**: Testing the interaction between integrated modules.
 - **Example**: Testing the data flow between the front-end and back-end modules.
 
-1 **System Testing**:
+2. **System Testing**:
 - **Description**: Testing the complete system as a whole.
 - **Example**: Verifying that all features work together in the deployed environment.
 
-1 **Acceptance Testing**:
+3. **Acceptance Testing**:
 - **Description**: Testing the system against user requirements.
 - **Example**: User acceptance testing (UAT) where users validate the system's functionality.
 
